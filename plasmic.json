@@ -42,19 +42,6 @@
           "componentType": "page"
         },
         {
-          "id": "e0K35DpS7Tfcj-",
-          "name": "Services",
-          "type": "managed",
-          "projectId": "tUi91SKLM7F3mDsG9F2SWh",
-          "renderModuleFilePath": "plasmic/generic_landing_page/PlasmicServices.jsx",
-          "importSpec": {
-            "modulePath": "../pages/services.jsx"
-          },
-          "cssFilePath": "plasmic/generic_landing_page/PlasmicServices.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
-        },
-        {
           "id": "T-rYn7HREpOF0B",
           "name": "Navbar",
           "type": "managed",
